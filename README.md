@@ -1,6 +1,11 @@
+<!--
+
 <img src='./assets/hello-world.gif' width='100%'>  
 
+-->
 # Hi There 👋
+
+<!--
 
 <img align='left' src='./assets/programmer.gif' width='30%'>  
 <img align='right' src='./assets/programmer.gif' width='30%'>  
@@ -28,6 +33,7 @@
   <img src='./assets/tech/react.png' height='50px'>
   <img src='./assets/tech/docker.png' height='50px'>
 </p>
+-->
 
 <!--
 **lharo/lharo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
