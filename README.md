@@ -8,10 +8,11 @@ I'm a software engineer fueled by a passion for learning and a drive to create i
 <h2 align="center">Experience</h2>
 <p align="center">Here's a look at some of my key professional experiences:</p>
 
-<a>**Globalization Partners**</a> | <a target="_blank">**Clip**</a> | <a target="_blank">**Universidad Panamericana**</a> | <a>**Opentable**</a>
+<a>**Opentable**</a> | <a target="_blank">**Clip**</a> | <a target="_blank">**Universidad Panamericana**</a> | <a>**Globalization Partners**</a>
 :---: | :---: | :---: | :---:
-<img align='center' src='https://raw.githubusercontent.com/lharo/lharo/main/assets/gp.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/lharo/lharo/main/assets/clip.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/lharo/lharo/main/assets/up.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/lharo/lharo/main/assets/opentable.png' height='100px'>
-<a href="https://www.globalization-partners.com" target="_blank">`globalization-partners.com`</a> | <a href="http://clip.mx" target="_blank">`clip.mx`</a> | <a href="https://www.up.edu.mx" target="_blank">`up.edu.mx`</a> | <a href="https://www.opentable.com" target="_blank">`opentable.com`</a>
+<img align='center' src='https://raw.githubusercontent.com/lharo/lharo/main/assets/opentable.png' height='150px'> | <img align='center' src='https://raw.githubusercontent.com/lharo/lharo/main/assets/clip.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/lharo/lharo/main/assets/up.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/lharo/lharo/main/assets/gp.png' height='100px'>
+<a href="https://www.opentable.com" target="_blank">`opentable.com`</a> | <a href="http://clip.mx" target="_blank">`clip.mx`</a> | <a href="https://www.up.edu.mx" target="_blank">`up.edu.mx`</a> | <a href="https://www.globalization-partners.com" target="_blank">`globalization-partners.com`</a>
+
 <!-- Skills -->
 
 <h2 align="center">Skills</h2>
